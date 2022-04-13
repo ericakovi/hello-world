@@ -1,2 +1,2 @@
 # hello-world
-inspired to become data scientist and land and water expert
+inspired to become data scientist as well as land and water modelling expert
